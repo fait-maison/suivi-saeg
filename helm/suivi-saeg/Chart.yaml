@@ -1,0 +1,7 @@
+apiVersion: v2
+name: suivi-saeg
+description: A Helm chart for suivi-saeg application
+type: application
+version: 0.1.0
+appVersion: "latest"
+icon: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg
